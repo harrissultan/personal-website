@@ -1,0 +1,21 @@
+h1{
+    text-align: center;
+    text-size-adjust: large;
+    background-color: seashell;
+    opacity: 0.5;
+    color: palevioletred;
+}
+h2{
+    text-align: left;
+    text-size-adjust: medium;
+    background-color: seashell;
+    opacity: 0.5;
+    color: purple;
+}
+body{
+    background: olivedrab;
+}
+p{
+    text-align: center;
+    color: red;
+}
